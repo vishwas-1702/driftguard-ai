@@ -1,0 +1,21 @@
+node_modules/
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary/test files
+coverage/
+
+# Local vector database/runtime files
+# Uncomment if vector-store.json is generated locally
+# src/data/vector-store.json

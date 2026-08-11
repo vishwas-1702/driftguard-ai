@@ -1,0 +1,18 @@
+[
+  {
+    "customerId": 101,
+    "name": "Rahul Sharma",
+    "city": "Pune",
+    "status": "BLOCKED",
+    "kyc": "EXPIRED",
+    "creditLimit": 10000
+  },
+  {
+    "customerId": 102,
+    "name": "Priya Singh",
+    "city": "Delhi",
+    "status": "ACTIVE",
+    "kyc": "VERIFIED",
+    "creditLimit": 75000
+  }
+]
